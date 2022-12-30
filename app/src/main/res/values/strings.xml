@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tofik Drc</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="log_out">Log out</string>
+    <string name="submit">Submit</string>
+    <string name="count">Count</string>
+    <string name="hint_number">Enter Amount for matrix</string>
+
+
+</resources>
